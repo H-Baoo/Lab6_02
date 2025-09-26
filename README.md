@@ -5,7 +5,7 @@ B1: Chạy câu lệnh node app.js
 B2: MỞ POSTMAN
  - Chạy URL:POST http://localhost:3000/auth/register
 kèm Body: raw JSON{"username": "DangHoaiBao","password": "12345"} khi send thành công sẽ gửi trả về message "User registered successfully!"
-<img width="1919" height="1079" alt="image" src="../local_passport_auth_service/public/image/register_1.png" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/local_passport_auth_service/public/image/register_1.png" />
 <img width="1919" height="1079" alt="image" src="../local_passport_auth_service/public/image/register_2.png" />
 
  - Chạy URL:POST http://localhost:3000/auth/login
